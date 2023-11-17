@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyCarTestPhase1
+comment0.text=\r\n\ MyCarTestPhase1\ -\ to\ test\ the\ class\ Car\ Phase1\r\n\r\n\ @author\ \ Ana\ Posada\r\n\ @version\ February\ 2020\r\n
+comment1.params=
+comment1.target=void\ testDefaultConstructor()
+comment1.text=\r\n\ Test\ default\ constructor\ -\ no\ input\ parameters\r\n
+comment2.params=
+comment2.target=void\ testSecondConstructor()
+comment2.text=\r\n\ Test\ second\ constructor\ \r\n
+comment3.params=
+comment3.target=void\ testSetMake()
+comment3.text=\r\n\ Test\ setMake\ \r\n
+comment4.params=
+comment4.target=void\ testSetModel()
+comment4.text=\r\n\ Test\ setModel\r\n
+comment5.params=
+comment5.target=void\ testSetYear()
+comment5.text=\r\n\ Test\ setYear\r\n
+comment6.params=
+comment6.target=void\ testSetMpg()
+comment6.text=\r\n\ Test\ setMpg\r\n
+numComments=7
